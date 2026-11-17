@@ -1,0 +1,3 @@
+Barlow Condensed (Light, Medium) by Jeremy Tribby - SIL Open Font License 1.1 (Fonts/BarlowCondensed/OFL.txt)
+https://fonts.google.com/specimen/Barlow+Condensed  source: https://github.com/google/fonts/tree/main/ofl/barlowcondensed
+Used for: all HUD text.

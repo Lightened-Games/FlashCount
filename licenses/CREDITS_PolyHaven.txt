@@ -1,0 +1,15 @@
+Poly Haven texture sets used by Flash to Bang. All are CC0 1.0 (public domain): https://polyhaven.com/license
+AI use: allowed (CC0, no restrictions). Raw 2K JPG maps (Diffuse, Normal DX, ARM) are in Textures/PolyHaven/<asset>/; tree models (glTF, 2K maps) in Models/PolyHaven/<asset>/.
+
+aerial_grass_rock      by Rob Tuytel                   https://polyhaven.com/a/aerial_grass_rock   used for: valley floor (seen from far)
+leafy_grass            by Charlotte Baglioni           https://polyhaven.com/a/leafy_grass   used for: hillside around the posts
+muddy_tracks           by Amal Kumar                   https://polyhaven.com/a/muddy_tracks   used for: road
+castle_brick_07        by Rob Tuytel                   https://polyhaven.com/a/castle_brick_07   used for: church tower, bridge, walls
+brown_planks_07        by Rob Tuytel                   https://polyhaven.com/a/brown_planks_07   used for: barns, ladder, belfry
+grey_roof_tiles        by Rob Tuytel                   https://polyhaven.com/a/grey_roof_tiles   used for: roofs
+thatch_roof_angled     by Rob Tuytel, Dimitrios Savva  https://polyhaven.com/a/thatch_roof_angled   used for: haystack
+green_metal_rust       by Rob Tuytel                   https://polyhaven.com/a/green_metal_rust   used for: tanks (olive painted steel)
+island_tree_02         by Rob Tuytel, Rico Cilliers    https://polyhaven.com/a/island_tree_02   used for: broadleaf tree cards (baked)
+tree_small_02          by Rico Cilliers                https://polyhaven.com/a/tree_small_02   used for: second broadleaf tree cards (baked)
+shrub_04               by Rico Cilliers                https://polyhaven.com/a/shrub_04   used for: bush cards (baked)
+fir_sapling_medium     by Rob Tuytel, Rico Cilliers    https://polyhaven.com/a/fir_sapling_medium   used for: conifer tree cards (baked; tallest fir of the set)

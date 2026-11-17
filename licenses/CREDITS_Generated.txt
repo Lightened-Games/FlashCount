@@ -1,0 +1,6 @@
+Flash to Bang - original generated content (made for this project, no third-party input)
+  Textures/Generated/FlashtoBang/   flipbooks (smoke, fire, dirt), foliage atlas, flare, spark, ring, binocular mask,
+                                    water ripple normal, noise. Script: generate_textures.py (in that folder).
+  Models/Generated/FlashtoBang/     glTF exports of the code-built meshes (FTBMeshLib / FTBWorldBuilder / FTBTank).
+  Audio/Generated/FlashtoBang/      WAV exports of the runtime synth (FTBSynth.cpp).
+Licence: original work, delivered with the game. AI tooling (Claude Code) was used to write the generator code.
